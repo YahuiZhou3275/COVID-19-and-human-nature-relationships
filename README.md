@@ -16,3 +16,7 @@ regression method, this paper identifies socio-demographic patterns by using the
 - data.xlsx: the dataset of the Covid-19 pandemic on human-nature interactions
 - COVID-19 and human-nature relationships.Rmd: the R code
 - Final Report - Group Project.pdf: the final report 
+
+## Reference
+Work Citation:
+Morse JW, Gladkikh TM, Hackenburg DM, Gould RK (2020) COVID-19 and human-nature relationships: Vermonters’ activities in nature and associated nonmaterial values during the pandemic. PLoS ONE 15(12): e0243697. https://doi.org/10.1371/journal.pone.0243697
