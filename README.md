@@ -19,4 +19,4 @@ regression method, this paper identifies socio-demographic patterns by using the
 
 ## Reference
 Work Citation:
-Morse JW, Gladkikh TM, Hackenburg DM, Gould RK (2020) COVID-19 and human-nature relationships: Vermonters’ activities in nature and associated nonmaterial values during the pandemic. PLoS ONE 15(12): e0243697. https://doi.org/10.1371/journal.pone.0243697
+Morse JW, Gladkikh TM, Hackenburg DM, Gould RK (2020) COVID-19 and human-nature relationships: Vermonters’ activities in nature and associated nonmaterial values during the pandemic. PLoS ONE 15(12): e0243697. https://doi.org/10.1371/journal.pone.0243697 
